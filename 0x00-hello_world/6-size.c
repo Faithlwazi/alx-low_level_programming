@@ -1,4 +1,4 @@
-#lnclude < stdio.h >
+#include < stdio.h >
 /**
  * main - EntrY
  * Return: Always 0
